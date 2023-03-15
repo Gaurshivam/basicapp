@@ -1,0 +1,21 @@
+.FooterMain{
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    color: cornsilk;
+    /* padding: 10px; */
+    
+}
+
+.footer1{
+    width: 30%;
+    margin-left: 15px;
+}
+
+.footer2{
+    width: 40%;
+}
+
+.footer3{
+    width: 30%;
+}

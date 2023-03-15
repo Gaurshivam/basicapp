@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.Mainleft {
+    width: 50%;
+    padding: 10px;
+    margin-left: 20px;
+ 
+}
+
+.Mainright {
+    width: 50%;
+    text-align: center;
+}
+
+.MainImg{
+    width: 90%;
+    height: 60vh;
+}
