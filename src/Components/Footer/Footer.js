@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='FooterMain'>
       <div className="footer1">
         <h2>Block Footer</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing <br /> elit. Ab deleniti alias deserunt eos nemo vero commodi corrupti eligendi dolores perspiciatis.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing <br /> elit. Ab deleniti alias deserunt eligendi dolores perspiciatis.</p>
       </div>
       <div className="footer2">
         <h2>Block Footer</h2>
